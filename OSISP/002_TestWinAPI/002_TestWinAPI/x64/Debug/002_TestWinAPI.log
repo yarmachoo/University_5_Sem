@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\Uni\5sem\OSISP\002_TestWinAPI\002_TestWinAPI\main.cpp(106,14): warning C4311: 'type cast': pointer truncation from 'LPVOID' to 'int'
+D:\Uni\5sem\OSISP\002_TestWinAPI\002_TestWinAPI\main.cpp(106,14): warning C4302: 'type cast': truncation from 'LPVOID' to 'int'
+D:\Uni\5sem\OSISP\002_TestWinAPI\002_TestWinAPI\main.cpp(162,9): warning C4244: 'return': conversion from 'INT_PTR' to 'int', possible loss of data
+  002_TestWinAPI.vcxproj -> D:\Uni\5sem\OSISP\002_TestWinAPI\x64\Debug\002_TestWinAPI.exe
